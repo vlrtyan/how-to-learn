@@ -1,0 +1,8 @@
+.video__inframes{
+    position: relative;
+    bottom: -60px;
+}
+
+.video__inframe:not(:last-child){
+    margin-right: 60px;
+}
