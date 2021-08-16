@@ -6,3 +6,7 @@
 .video__inframe:not(:last-child){
     margin-right: 60px;
 }
+
+.video__inframe{
+    border: 0;
+}
