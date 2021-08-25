@@ -10,7 +10,7 @@
     text-decoration: none;
   }
   
-  .feynman__link:hover{
+.feynman__link:hover{
     transition-duration: 0.4s;
     opacity: 70%;
   }

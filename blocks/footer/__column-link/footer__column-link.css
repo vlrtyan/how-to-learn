@@ -7,7 +7,7 @@
     text-decoration: none;
   }
   
-  .footer__column-link:hover{
+.footer__column-link:hover{
     transition-duration: 0.4s;
     opacity: 70%;
   }

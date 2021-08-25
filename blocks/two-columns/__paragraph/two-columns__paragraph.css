@@ -5,6 +5,6 @@
     font-weight: normal;
   }
   
-  .two-columns__paragraph:not(:last-of-type){
+.two-columns__paragraph:not(:last-of-type){
     margin-bottom: 30px;
   }

@@ -3,7 +3,7 @@
     text-decoration: none;
   }
   
-  .header__link:hover{
+.header__link:hover{
     transition-duration: 0.4s;
     opacity: 70%;
   }
